@@ -11,7 +11,11 @@
 
 int main()
 {
-	printf("hello artik!\n");
+/*
+ * 	printf("hello artik!\n");
+ *
+*/
+	printf("Myunghoon Ahn!\n");
 
 	return 0;
 }

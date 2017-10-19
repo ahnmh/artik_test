@@ -16,7 +16,6 @@ int main()
  *
 */
 	printf("Myunghoon Ahn!\n");
-	printf("ryders0502!\n");
 
 	return 0;
 }

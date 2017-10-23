@@ -23,5 +23,7 @@ int main()
 
 	// master go 1 commit ahead
 
+	// original - amend
+
 	return 0;
 }

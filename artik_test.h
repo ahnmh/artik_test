@@ -10,4 +10,6 @@
 
 /*job of test1 branch*/
 
+// test2 branch
+
 #endif /* ARTIK_TEST_H_ */
